@@ -1,4 +1,3 @@
 # QuizAppWithJavaScript
 
-Quiz App With JavaScript
-
+Quiz App With JavaScriptt
