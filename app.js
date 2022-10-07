@@ -14,6 +14,7 @@ const quizData = [{
         d: "1500",
         cevap: "c"
     },
+                  
     {
         question: 'Osmanlı Devleti Kaç Yılında Kuruldu?',
         a: "1299",
