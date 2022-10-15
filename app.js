@@ -51,6 +51,7 @@ const quizData = [{
 
 ]
 
+
 let score = 0;
 let currentQuiz = 0;
 const questionEl = document.querySelector(".question")
